@@ -19,6 +19,66 @@
       "latitude": "-7.7520206",
       "longitude": "110.4892787",
       "operational_time": "Setiap hari, 06.30 - 17.00"
+    },
+    {
+      "id": 3,
+      "destination_name": "Garuda Wisnu Kencana",
+      "description": "Patung Garuda Wisnu Kencana merupakan representasi dewa Wisnu yang
+      mengendarai Garuda. Dalam mitologi Hindu, Dewa Wisnu dipandang sebagai pelindung
+      alam semesta, sedangkan rekannya yang terpercaya yaitu Garuda melambangkan
+      kesetiaan dan pengabdian tanpa pamrih. Kencana berarti emas, dan keduanya dihiasi
+      dengan mahkota dari mozaik emas. Garuda juga merupakan lambang negara Indonesia dan
+      melambangkan kemerdekaan. Patung ini berdiri setinggi lebih dari 120 meter, dan menjadi
+      salah satu patung monumental tertinggi di dunia, lebih tinggi dari Patung Liberty dan Kristus
+      Penebus. Patung yang dirancang oleh seniman terkenal Bali Nyoman Nuarta ini terbuat dari
+      tembaga dan kuningan.
+      ",
+      "address": "Jl. Raya Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali",
+      "phone_number": "0361700808",
+      "latitude": "-8.8104228",
+      "longitude": " 115.1655387",
+      "operational_time": "Setiap hari, 09.00 - 20.00"
+    },
+    {
+      "id": 4,
+      "destination_name": "Gereja Blenduk",
+      "description": "GPIB Immanuel Semarang yang populer dengan nama Gereja Blenduk adalah
+      Gereja Kristen tertua di Jawa Tengah yang dibangun oleh masyarakat Belanda yang tinggal
+      di kota itu pada 1753. Bentuk gereja ini adalah oktagonal (persegi delapan), dan jika dilihat
+      dari atas, denah gereja berwujud seperti salib Yunani dengan ruang kebaktian sebagai titik
+      sentral. Selain kehadiran orgel berusia lebih dari 200 tahun setinggi 6 meter, keunikan lain
+      dari gereja ini adalah kursi kebaktian berupa kursi tunggal kayu jati warna coklat tua dengan
+      sandaran punggung dan dudukan dari anyaman rotan, serta ventilasi gereja berupa
+      jendela-jendela lengkung model Romawi kuno dengan susunan kaca patri bergaya gotik.",
+      "address": "Jl. Letjen Suprapto No.32, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa
+      Tengah
+      ",
+      "phone_number": "-",
+      "latitude": "-6.9683488",
+      "longitude": "110.425288",
+      "operational_time":"Setiap hari, 06.00–00.00"
+    },
+    {
+      "id": 5,
+      "destination_name": "Jam Gadang",
+      "description": "Jam Gadang adalah menara jam yang menjadi ikon Kota Bukittinggi. Menara jam
+      ini memiliki jam dengan ukuran besar di empat sisinya sehingga dinamakan Jam Gadang,
+      sebutan bahasa Minangkabau yang berarti ""jam besar"". Jam Gadang menjadi lokasi
+      peristiwa penting pada masa sekitar kemerdekaan Indonesia, seperti pengibaran bendera
+      merah putih (1945), Demonstrasi Nasi Bungkus (1950), dan pembunuhan 187 penduduk
+      setempat oleh militer Indonesia atas tuduhan terlibat Pemerintahan Revolusioner Republik
+      Indonesia (1959). Mesin jam dan permukaan jam terletak pada satu tingkat di bawah tingkat
+      paling atas. Pada bagian lonceng tertera pabrik pembuat jam yaitu Vortmann Relinghausen.
+      Vortman adalah nama belakang pembuat jam, Benhard Vortmann, sedangkan
+      Recklinghausen adalah nama kota di Jerman yang merupakan tempat diproduksinya mesin
+      jam pada tahun 1892.",
+      "address": "Jalan Raya Bukittinggi-Payakumbuh, Benteng Ps. Ateh, Bukittinggi, Sumatera
+      Barat",
+      "phone_number": "-",
+      "latitude": "-0.3051587",
+      "longitude": "100.3673315",
+      "operational_time":"Setiap hari, 24 jam."
     }
+
   ]
 }
