@@ -1,0 +1,24 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "destination_name": "Candi Borobudur",
+      "description": "Candi Borobudur merupakan candi atau kuil Buddha terbesar di dunia yang diakui UNESCO sebagai situs warisan dunia pada tahun 1991. Diperkirakan Candi Borobudur dibangun  sekitar tahun 780-840 oleh Dinasti Syailendra. Monumen ini terdiri atas enam teras berbentuk bujur sangkar yang di atasnya terdapat tiga pelataran melingkar, pada dindingnya dihiasi dengan 2.672 panel relief dan aslinya terdapat 504 arca Buddha. Dalam ajaran Buddha, ketiga tingkatan pelataran itu adalah Kāmadhātu (ranah hawa nafsu), Rupadhatu (ranah berwujud), dan Arupadhatu (ranah tak berwujud)",
+      "address": "Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah",
+      "phone_number": "0293788266",
+      "latitude": "-7.6078738",
+      "longitude": "110.2015626",
+      "operational_time": "Setiap hari, 06.30 - 16.30"
+    },
+    {
+      "id": 2,
+      "destination_name": "Candi Prambanan",
+      "description": "Candi Prambanan atau Candi Roro Jonggrang merupakan kompleks candi Hindu (Syaiwa) terbesar di Indonesia  yang dibangun pada abad ke-9 masehi oleh raja dari Wangsa Sanjaya, yaitu Raja Balitung Maha Sambu. Candi Prambanan masuk ke dalam Situs Warisan Dunia UNESCO pada tahun 1991. Candi ini dipersembahkan untuk Trimurti, tiga dewa utama Hindu yaitu dewa Brahma sebagai dewa pencipta, dewa Wisnu sebagai dewa pemelihara, dan dewa Siwa sebagai dewa pemusnah. Candi Prambanan digunakan sebagai penyelenggaraan upacara adat istiadat seperti upacara melasti yang biasanya dilakukan sebelum hari raya nyepi dan juga upacara tawur agung kesanga",
+      "address": "Jl. Raya Solo - Yogyakarta No.16, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+      "phone_number": "0274496401",
+      "latitude": "-7.7520206",
+      "longitude": "110.4892787",
+      "operational_time": "Setiap hari, 06.30 - 17.00"
+    }
+  ]
+}
