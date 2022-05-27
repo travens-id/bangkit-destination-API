@@ -1,2 +1,2 @@
 # bangkit-destination-API
-The source code of Travens' destination API gateway
+The source code of Travens' API gateway for destination service
