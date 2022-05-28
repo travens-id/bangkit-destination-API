@@ -78,7 +78,96 @@
       "latitude": "-0.3051587",
       "longitude": "100.3673315",
       "operational_time":"Setiap hari, 24 jam."
-    }
-
+    },
+    {
+      "id": 6,
+      "destination_name": "Klenteng Sam Poo Kong",
+      "description": "Klenteng Sam Poo Kong yaitu bekas tempat persinggahan dan pendaratan
+      pertama seorang Laksamana Tiongkok beragama Islam yang bernama Zheng He/Cheng
+      Ho. Nama Sam Poo Kong diangkat dari etimologi “Gua San Bao” yang merupakan nama asli
+      dari Laksamana Cheng Ho, yaitu Ma San Bao. Klenteng Sam Poo Kong memiliki beberapa
+      kompleks bangunan, diantaranya yaitu Bangunan Kelenteng Utama atau Sam Poo Kong,
+      Klenteng Kyai Juru Mudi, Klenteng Dewa Bumi, Klenteng Kyai Jangkar, Klenteng Kyai Nyai
+      Tumpeng dan Kyai Tjundrik Bumi, serta Gua Pemujaan Sam Poo Kong.Sekarang tempat ini
+      dijadikan tempat peringatan dan pemujaan atau bersembahyang serta tempat untuk
+      berziarah. Untuk keperluan tersebut, di dalam gua batu itu diletakkan sebuah altar serta
+      patung-patung Sam Po Tay Djien. Meskipun Laksamana Cheng Ho adalah seorang muslim,
+      tetapi masyarakat menganggapnya sebagai dewa.",
+      "address": "Jl. Simongan No.129, Bongsari, Kec. Semarang Barat, Kota Semarang, Jawa
+      Tengah",
+      "phone_number": "08112611914",
+      "latitude": "-6.9962741",
+      "longitude": "110.3950631",
+      "operational_time":"Setiap hari, 08.00–20.00"
+    },
+    {
+      "id": 7,
+      "destination_name" : "Menara Kudus",
+      "description": "Menara Kudus adalah menara yang serupa bangunan candi serta pola arsitektur
+      yang memadukan konsep budaya Islam dengan budaya Hindu-Buddhis sehingga
+      menunjukkan terjadinya proses akulturasi dalam pengislaman Jawa. didirikan oleh Sunan
+      Kudus itu tujuannya utama adalah sebagai tempat untuk penyiar tanda azan karena waktu
+      itu belum ada pengeras suara. Harapan azan di atas menara masyarakat di sekitar masjid
+      masyarakat mengetahui waktu shalat. Menara Kudus memiliki ketinggian 18 meter dengan
+      bagian dasar berukuran 10 x 10 m. Di sekeliling bangunan dihias dengan piring-piring
+      bergambar yang semuanya berjumlah 32 buah. Dua puluh buah diantaranya berwarna biru
+      serta berlukiskan masjid, manusia dengan unta dan pohon kurma. Sementara itu, 12 buah
+      lainnya berwarna merah putih berlukiskan kembang.",
+      "address": "Jl. Menara, Pejaten, Kauman, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah",
+      "phone_number": "-",
+      "latitude": "-6.8041743",
+      "longitude": "110.8306434",
+      "operational_time": "Setiap hari, 24 jam."
+    },
+    {
+      "id": 8,
+      "destination_name": "Monumen Bandung Lautan Api",
+      "description": "Monumen Bandung Lautan Api merupakan monumen yang dibangun untuk
+      memperingati peristiwa Bandung Lautan Api, dimana terjadi pembumihangusan Bandung
+      Selatan yang dipimpin oleh Muhammad Toha. Hal ini dilakukan untuk mencegah tentara
+      sekutu dan NICA (Netherlands Indies Civil Administration) Belanda menggunakan Kota
+      Bandung sebagai markas strategis militer dalam perang kemerdekaan Indonesia. Monumen
+      ini dibangun berdasarkan pada desain rancangan Sunaryo yang merupakan seniman
+      kontemporer sekaligus mantan dosen seni rupa Institut Teknologi Bandung dengan tinggi 45
+      meter, dan memiliki sisi sebanyak 9 bidang.",
+      "address": "Jl. BKR, Ciateul, Kec. Regol, Kota Bandung, Jawa Barat",
+      "phone_number": "-",
+      "latitude": "-6.9338444",
+      "longitude": "107.6027363",
+      "operational_time": "Setiap hari, 24 jam."
+    },
+    {
+      "id":9,
+      "destination_name": "Monumen Kilometer Nol Indonesia",
+      "description": "Monumen Kilometer Nol Indonesia merupakan tugu penetapan posisi geografis
+      kilometer nol yang telah diuji oleh Badan Pengkajian dan Penerapan Teknologi
+      menggunakan Global Positioning System. Tugu kilometer nol diresmikan pada 9 September
+      1997 oleh Try Sutrisno yang pada saat itu menjabat wakil presiden RI. Monumen ini berupa
+      bangunan bercat putih dengan tinggi sekitar 43,6 meter di atas permukaan laut yang
+      memiliki empat pilar penyangga yang berarti simbol batas-batas negara yaitu, Sabang
+      sampai Merauke, Miangas hingga Rote. Rencong yang merupakan senjata khas Aceh juga
+      terdapat di tugu sebagai simbol perjuangan rakyat Aceh dalam memerdekakan Indonesia.
+      Dan di puncak tugu ini terdapat patung Garuda yang mencengkram perisai yang membentuk
+      angka nol",
+      "address": "Iboih, Sukakarya, Kota Sabang, Aceh",
+      "phone_number": "-",
+      "latitude": "5.9059443",
+      "longitude": "95.2145851",
+      "operational_time": "Setiap hari, 08.00–18.00",
+    },
+    {
+      "id": 10,
+      "destination_name": "Monumen Nasional",
+      "description": "Monumen Nasional atau yang disingkat dengan Monas atau Tugu Monas adalah
+      monumen peringatan setinggi 132 meter yang didirikan untuk mengenang perlawanan dan
+      perjuangan rakyat Indonesia untuk merebut kemerdekaan dari pemerintahan kolonial Hindia
+      Belanda. Tugu ini dimahkotai lidah api yang dilapisi lembaran emas yang melambangkan
+      semangat perjuangan yang menyala-nyala dari rakyat Indonesia",
+      "address": "Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+      "phone_number": "0213822255",
+      "latitude": "-6.1753924",
+      "longitude": "106.8271528",
+      "operational_time": "Setiap hari, 08.00 - 22.00"
+    },
   ]
 }
