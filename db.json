@@ -169,5 +169,161 @@
       "longitude": "106.8271528",
       "operational_time": "Setiap hari, 08.00 - 22.00"
     },
+    {
+      "id": 11,
+      "destination_name": "Monumen Pembebasan Irian Barat",
+      "description": "Monumen Pembebasan Irian Barat adalah monumen yang dibangun untuk
+      mengenang para pejuang Trikora dan masyarakat Irian Barat yang memilih menjadi bagian
+      dari Republik Indonesia pada tahun 1962. Monumen ini tingginya mencapai 35 meter, dan
+      bentuk monumen berupa patung yang terbuat dari perunggu. Patung itu dibuat oleh Team
+      Pematung Keluarga Area Yogyakarta dibawah pimpinan Edhi Sunarso. Arsitektur monumen
+      ini dirancang oleh Henk Ngantung dan Friedrich Silaban. Peresmian monumen ini dilakukan
+      oleh Soekarno pada 17 Agustus 1963",
+      "address": "Kawasan Lapangan Banteng Jl. Banteng Barat, Ps. Baru, Kecamatan Sawah
+      Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+      "phone_number": "-",
+      "latitude": "-6.1702931",
+      "longitude": "106.8327366",
+      "operational_time": "Setiap hari, 24 jam"
+    },
+    {
+      "id": 12,
+      "destination_name": "Monumen Selamat Datang",
+      "description": "Monumen Selamat Datang adalah sebuah monumen berupa patung sepasang
+      manusia yang sedang menggenggam bunga dan melambaikan tangan. Patung tersebut
+      menghadap ke utara yang berarti mereka menyambut orang-orang yang datang dari arah
+      Monumen Nasional. Monumen ini dibangun pada tahun 1962 atas perintah Presiden
+      Soekarno dalam rangka Asian Games IV yang diadakan di Jakarta. Tinggi patung perunggu
+      ini dari kepala sampai kaki 5 m, sedangkan tinggi seluruhnya dari kaki hingga tangan yang
+      melambai adalah +-7 m, dan tinggi kaki patung adalah 10 m. Pelaksana pembuatan patung
+      ini adalah tim pematung Keluarga Arca pimpinan Edhi Sunarso di Karangwuni, dan dibantu
+      oleh Trubus Soedarsono",
+      "address": "Jl. Kebon Melati 1 No.5, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat,
+      Daerah Khusus Ibukota Jakarta",
+      "phone_number":"-",
+      "latitude":" -6.1949925",
+      "longitude": "106.8208609",
+      "operational_time": "Setiap hari, 24 jam"
+    },
+    {
+      "id":13,
+      "destination_name": "Monumen Yogya Kembali",
+      "description": "Monumen Yogya Kembali (Monjali) didirikan untuk memperingati peristiwa
+      berfungsinya kembali Kota Yogyakarta sebagai Ibu Kota Republik Indonesia yang direbut
+      dari penjajah Belanda pada tanggal 29 Juni 1949. Gagasan untuk mendirikan museum ini
+      adalah Bapak Kolonel Soegiarto, dan diresmikan oleh Presiden Soeharto pada tahun 1989.
+      Museum yang berbentuk menyerupai tumpeng ini di bangun di atas lahan seluas 49.920 m2,
+      dengan ketinggian 31,8 meter. Bangunan monjali terdiri dari 3 lantai, lantai 1 berisi 4 ruang
+      museum, lantai 2 berisi 10 diorama dan 40 relief, dan lantai 3 bernama Ruang Garba Graha.
+      Koleksi Museum berjumlah 1.108, terdiri dari heraldika, miniatur, replika, kendaraan, senjata
+      api, senjata tradisional, foto dokumentasi, alat perhubungan angkatan darat, alat kesehatan,
+      inventaris, patung peraga, arsip, daftar nama pahlawan, relief, diorama, dan evokatif",
+      "address": "Jl. Ring Road Utara, Jongkang, Sariharjo, Kec. Ngaglik, Kabupaten Sleman,
+      Daerah Istimewa Yogyakarta",
+      "phone_number": "0274868225",
+      "latitude": "-7.7495851",
+      "longitude": "110.3674181",
+      "operational_time": "Selasa - Minggu, 08.00–16.00",
+    },
+    {
+      "id":14,
+      "destination_name": "Museum Sejarah Jakarta",
+      "description": "Museum Fatahillah memiliki nama resmi Museum Sejarah Jakarta merupakan
+      museum yang yang dibangun pada tahun 1707-1710 atas perintah Gubernur Jenderal Joan
+      van Hoorn. Bangunan ini dahulu merupakan Balai Kota Batavia. Bangunan ini menyerupai
+      Istana Dam di Amsterdam, terdiri atas bangunan utama dengan dua sayap di bagian timur
+      dan barat serta bangunan sanding yang digunakan sebagai kantor, ruang pengadilan, dan
+      ruang-ruang bawah tanah yang dipakai sebagai penjara. Pada tanggal 30 Maret 1974,
+      bangunan ini kemudian diresmikan oleh bapak Ali Sadikin sebagai Museum Sejarah Jakarta",
+      "address": "Jalan Taman Fatahillah No.1, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat,
+      Daerah Khusus Ibukota Jakarta",
+      "phone_number": "0216929101",
+      "latitude": " -6.1351947",
+      "longitude": "106.8111113",
+      "operational_time": "Selasa - Minggu, 09.00–15.00"
+    },
+    {
+      "id": 15,
+      "destination_name": "Pagoda Watu Gong",
+      "description": "Pagoda Watu Gong adalah bagian bangunan dari Vihara Buddhagaya yang
+      merupakan peninggalan sejarah setelah keruntuhan Kerajaan Majapahit. Nama watu gong
+      sendiri berarti batu unik yang berbentuk gong tanpa rekayasa tangan manusia. Dengan
+      arsitektur bangunan yang sangat kental dengan etnik Tiongkok - Thailand dan tinggi
+      mencapai 45 meter, pagoda ini dan ditetapkan sebagai pagoda dengan nilai artistik tinggi
+      tertinggi di dunia. Di dalamnya terdapat patung Dewi Kwan Im dengan tinggi lima meter.
+      Sedangkan Dhammasala terdiri dari dua lantai yang mana lantai dasar digunakan sebagai
+      ruang aula serbaguna untuk kegiatan pertemuan dan lantai atas digunakan untuk upacara
+      keagamaan yang terdapat patung Sang Buddha",
+      "address": "Jl. Perintis Kemerdekaan, Pudak Payung, Kec. Banyumanik, Kota Semarang, Jawa
+      Tengah",
+      "phone_number": "0247473590",
+      "latitude": "-7.0868397",
+      "longitude": "110.4068984",
+      "operational_time": "Setiap hari, 07.00 – 21.00"
+    },
+    {
+      "id": 16,
+      "destination_name": "Patung Gandrung",
+      "description": "Patung Gandrung adalah patung yang merepresentasikan tarian gandrung yang
+      merupakan ikon kota Banyuwangi. Tarian ini merupakan media dalam mewujudkan rasa
+      syukur terhadap Dewi Sri atau Dewi Padi atas tanah yang subur dan hasil bumi yang
+      berlimpah. Tari Gandrung diiringi musik khas Gamelan Osing dan dilakukan
+      berpasangan antara perempuan (penari gandrung) dan laki-laki (pemaju)",
+      "address": "Jl. Banyuwangi-Jember, Dusun Barurejo, Kalibaru Wetan, Kec. Kalibaru,
+      Kabupaten Banyuwangi, Jawa Timur",
+      "phone_number": "082132219529",
+      "latitude": "-8.2789232",
+      "longitude": "113.9354988",
+      "operational_time": "Setiap hari, 24 jam"
+    },
+    {
+      "id": 17,
+      "destination_name": "Patung Pancoran",
+      "description": "Monumen Patung Dirgantara atau lebih dikenal dengan nama Patung Pancoran
+      merupakan monumen patung manusia angkasa, yang berarti menggambarkan semangat
+      keberanian bangsa Indonesia untuk menjelajah angkasa. Ide pertama pembuatan patung
+      adalah dari Presiden Soekarno yang menghendaki agar dibuat sebuah patung mengenai
+      dunia penerbangan Indonesia atau kedirgantaraan. Patung yang selesai pada tahun 1966 ini
+      memiliki berat keseluruhan 11 ton yang terbagi dalam potongan-potongan yang
+      masing-masing beratnya 1 ton",
+      "address": "Jl. Gatot Subroto No.1, RT.2/RW.1, Menteng Dalam, Kec. Pancoran, Kota Jakarta
+      Selatan, Daerah Khusus Ibukota Jakarta",
+      "phone_number": "-",
+      "latitude": "-6.2430614",
+      "longitude": "106.8413758",
+      "operational_time": "Setiap hari, 24 jam"
+    },
+    {
+      "id": 18,
+      "destination_name": "Patung Suro dan Boyo",
+      "description": "Patung Suro dan Boyo merupakan sebuah patung yang merupakan lambang
+      kota Surabaya yang terdiri atas dua hewan ini yang menjadi inspirasi nama kota Surabaya:
+      ikan sura (hiu) dan baya (buaya). Kata “Surabaya” diyakini memiliki arti filosofis yaitu
+      “berjuang”. Kata “Surabaya” berasal dari kata sura yang berarti “selamat” dan baya berbarti
+      ‘bahaya’ , sehingga arti Surabaya adalah Selamat dari Bahaya. Bahaya yang dimaksud
+      adalah selamat dari serangan tentara Tar-Tar yang berhasil dikalahkan oleh Raden Wijaya
+      dimana hari kemenangan itu ditetapkan sebagai hari jadi Kota Surabaya",
+      "address": "Jl. Diponegoro No.1-B, Darmo, Kec. Wonokromo, Kota SBY, Jawa Timur",
+      "phone_number": "-",
+      "latitude": "-7.2960439",
+      "longitude": "112.7365125",
+      "operational_time":"Setiap hari, 24 jam"
+    },
+    {
+      "id": 19,
+      "destination_name": "Patung Yesus Memberkati",
+      "description": "Patung Yesus Memberkati adalah patung Yesus Kristus yang berdiri setinggi 50
+      meter dan terdiri dari penopang 20 meter dan patung itu sendiri yang memiliki ketinggian 30
+      meter. Patung ini terbuat dari 25 ton serat logam dan 35 ton baja, dan terletak di puncak
+      perumahan Citraland Manado. Patung ini telah menjadi ikon baru kota Manado dan pada
+      tahun 2010, ini adalah patung tertinggi ke-2 di Asia dan patung Yesus tertinggi ke-4 di dunia
+      (tidak termasuk alas tumpuan yang dipasangnya)",
+      "address": "Winangun Satu, Kec. Malalayang, Kota Manado, Sulawesi Utara",
+      "phone_number": "-",
+      "latitude": "1.4379938",
+      "longitude": "124.8454573",
+      "operational_time":"Setiap hari, 24 jam"
+    }
+
   ]
 }
