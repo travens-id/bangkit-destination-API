@@ -1,3 +1,6 @@
+# Backend Destination APIs Architecture
+![Backend Destination API](https://user-images.githubusercontent.com/86970816/172515405-1fa5e3a5-8e51-4fb7-84fd-e4f4e758d9d4.png)
+
 # API Description
 This is source code of Destinations API of Travens team to GET and POST Destinations data who consume by our Travens Mobile Application.
 Build using Node JS and Express framework, from open source software called [JSON Server](https://github.com/typicode/json-server) from Typicode and Server deployed at Heroku.
@@ -16,5 +19,9 @@ Build using Node JS and Express framework, from open source software called [JSO
 # Security Concern
 We understand that our server is have no security protection cause anyone can POST data to our server and causing a malfunction or overloading server, this is just temporary solution cause we lack of time but we will commit to build secure server soon if we pass to the next round of bangkit
 
-# Backend Destination APIs Architecture
-![Backend Destination API](https://user-images.githubusercontent.com/86970816/172515405-1fa5e3a5-8e51-4fb7-84fd-e4f4e758d9d4.png)
+# How to run this Express app
+- Clone this repo
+- Open terminal and go to this project's root directory
+- Type `npm install` and hit enter
+- Serve the Express app by typing `node server.js`
+- It will run on http://127.0.0.1:3000
