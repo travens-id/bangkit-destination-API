@@ -23,5 +23,5 @@ We understand that our server is have no security protection cause anyone can PO
 - Clone this repo
 - Open terminal and go to this project's root directory
 - Type `npm install` and hit enter
-- Serve the Express app by typing `node server.js`
+- Serve the Express app by typing `npm run dev`
 - It will run on http://127.0.0.1:3000
