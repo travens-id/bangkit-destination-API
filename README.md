@@ -25,3 +25,11 @@ We understand that our server is have no security protection cause anyone can PO
 - Type `npm install` and hit enter
 - Serve the Express app by typing `npm run dev`
 - It will run on http://127.0.0.1:3000
+
+![image](https://user-images.githubusercontent.com/86970816/172519527-15d7b24d-01cd-40df-a59a-034a855c4915.png)
+
+# How to get destination information with Postman
+- Open Postman
+- Enter URL request bar with http://127.0.0.1:3000/destinations
+- Select method GET
+- Send the request
