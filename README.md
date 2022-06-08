@@ -2,7 +2,7 @@
 This is source code of Destinations API of Travens team to GET and POST Destinations data who consume by our Travens Mobile Application.
 Build using Node JS and Express framework, from open source software called [JSON Server](https://github.com/typicode/json-server) from Typicode and Server deployed at Heroku.
 
-# API Url
+# API URL
 [Destinations API Link](https://travens-api.herokuapp.com/)
 
 # API Endpoint
