@@ -33,3 +33,7 @@ We understand that our server is have no security protection cause anyone can PO
 - Enter URL request bar with http://127.0.0.1:3000/destinations
 - Select method GET
 - Send the request
+- You can also input the query parameter using `destination_name`
+
+![image](https://user-images.githubusercontent.com/86970816/172520076-d10186b9-fd0f-4ebb-bcfd-31773a536089.png)
+
