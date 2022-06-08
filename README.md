@@ -35,5 +35,10 @@ We understand that our server is have no security protection cause anyone can PO
 - Send the request
 - You can also input the query parameter using `destination_name`
 
-![image](https://user-images.githubusercontent.com/86970816/172520076-d10186b9-fd0f-4ebb-bcfd-31773a536089.png)
+![image](https://user-images.githubusercontent.com/86970816/172520379-b5f5b3f3-1936-43a7-8dbd-39f410e22996.png)
+
+![image](https://user-images.githubusercontent.com/86970816/172520499-1ee86dc1-73e8-4bb6-9116-03e7d4f27d9a.png)
+
+![image](https://user-images.githubusercontent.com/86970816/172520587-5478e8de-11ef-4638-9b30-e6d88f9baca1.png)
+
 
