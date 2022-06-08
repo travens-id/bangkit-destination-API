@@ -17,4 +17,4 @@ Build using Node JS and Express framework, from open source software called [JSO
 We understand that our server is have no security protection cause anyone can POST data to our server and causing a malfunction or overloading server, this is just temporary solution cause we lack of time but we will commit to build secure server soon if we pass to the next round of bangkit
 
 # Backend Destination APIs Architecture
-![express topology-01](https://user-images.githubusercontent.com/66078837/172293667-6fb835bf-a397-4a25-8615-7de42229da4f.jpg)
+![Backend Destination API](https://user-images.githubusercontent.com/86970816/172515405-1fa5e3a5-8e51-4fb7-84fd-e4f4e758d9d4.png)
